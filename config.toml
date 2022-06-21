@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Wind1 Softwares'
+theme = 'slate-master'
+[ params ]
+BackgroundImages = [
+  "https://wallpapercave.com/wp/wp2231089.jpg",
+  "https://wallpaperaccess.com/full/6573565.jpg",
+  "https://wallpapercave.com/wp/wp2231064.jpg",
+  "bg/b1920-004.jpg"
+]
+BackgroundStyle = "#000000;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
