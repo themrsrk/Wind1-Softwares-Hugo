@@ -26,7 +26,7 @@ tiles:
   txt_color: "#ffffff"
 -
   name: "Rufus"
-  url: "https://www.filehorse.com/download/file/YoXPigblM7CqtLedeO_XPZNdyDitRwe7QcjsTJL9cmK5bcNnnwIKuMd_gAh_4_tdPJowZddAMw_MeGOnwi6ckgfQLpWPNCeVQRyH1h3tZr0/"
+  url: "http://192.168.101.105:8000/rufus-3.18.exe"
   img: "https://upload.wikimedia.org/wikipedia/commons/d/de/Rufus-logo.png"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -34,6 +34,7 @@ tiles:
 -
   name: "Avast Free Antivirus"
   url: "magnet:?xt=urn:btih:342E0945A3B2A1910C65D61AEDF217DE5DD7E01B&dn=Avast%21+Pro+Antivirus%2CInternet+Security+%26amp%3B+Premier+2017+%2B+Keys&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce"
+  img: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Avast_Software_white_logo.png"
   bg_color: "#ffffff"
   txt_color: "#ff5722"
   tags: ["music"]
